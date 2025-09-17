@@ -1,8 +1,9 @@
 export const contributorsData = [
   {
-    name: "Siddesh Navthale",
-    photoUrl: "https://avatars.githubusercontent.com/u/111569738?v=4",
-    githubUrl: "https://github.com/sidxhdev",
+    name: "Sejal bhube",
+    photoUrl: "https://avatars.githubusercontent.com/u/220664781?s=400&u=edc2df9986b244315c6754a4de80a31bf412be06&v=4",
+   
+    githubUrl: "https://github.com/sejalbhube",
   },
   
  
